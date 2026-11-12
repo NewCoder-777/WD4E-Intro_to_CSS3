@@ -10,6 +10,8 @@ header{
 
 main{
   background-color: rgb(227, 235, 238);
+  font-size: x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav{
