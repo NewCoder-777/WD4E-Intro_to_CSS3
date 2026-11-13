@@ -15,7 +15,15 @@ main{
 }
 
 nav{
+  display: inline-block;
+  width: 80%;
   background-color: lightsteelblue;
+
+    width: 140px;
+    position: relative;
+    top: 25px;
+}
+
 }
 
 li{
